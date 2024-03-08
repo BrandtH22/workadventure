@@ -14,7 +14,7 @@ To understand how to use this starter kit, follow the tutorial at [https://worka
 * *map.png*: The map thumbnail displayed on the in-game map information
 
 If you want to use more than one map file, just add the new map file on root or in a folder.
-
+npm install
 we recommend using 500x500 images for the map thumbnails.
 
 If you are going to create custom websites to embed in the map, please reference the HTML files in the `input` option in *vite.config.js*.
