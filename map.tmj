@@ -2012,7 +2012,7 @@
         {
          "columns":76,
          "firstgid":1,
-         "image":"..\/camp-chia\/tilesets\/selected-tilsets\/outdoors\/2-outdoors.png",
+         "image":"src\/assets\/outdoors\/2-outdoors.png",
          "imageheight":1478,
          "imagewidth":2432,
          "margin":0,
@@ -2025,7 +2025,7 @@
         {
          "columns":98,
          "firstgid":3497,
-         "image":"..\/camp-chia\/tilesets\/selected-tilsets\/outdoors\/outdoors-exterior.png",
+         "image":"src\/assets\/outdoors\/outdoors-exterior.png",
          "imageheight":1326,
          "imagewidth":3136,
          "margin":0,
@@ -2038,7 +2038,7 @@
         {
          "columns":25,
          "firstgid":7515,
-         "image":"..\/camp-chia\/tilesets\/WA_Room_Builder.png",
+         "image":"src\/assets\/interiors\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -2051,7 +2051,7 @@
         {
          "columns":32,
          "firstgid":8515,
-         "image":"..\/camp-chia\/tilesets\/selected-tilsets\/interiors\/Room_Builder_Walls_32x32.png",
+         "image":"src\/assets\/interiors\/Room_Builder_Walls_32x32.png",
          "imageheight":1280,
          "imagewidth":1024,
          "margin":0,
@@ -2064,7 +2064,7 @@
         {
          "columns":29,
          "firstgid":9795,
-         "image":"..\/..\/..\/..\/Downloads\/Chia_Leaf.png",
+         "image":"src\/assets\/logos\/Chia_Leaf.png",
          "imageheight":864,
          "imagewidth":928,
          "margin":0,
@@ -2077,7 +2077,7 @@
         {
          "columns":13,
          "firstgid":10578,
-         "image":"tilesets\/WA_Seats.png",
+         "image":"src\/assets\/interiors\/WA_Seats.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
@@ -2090,7 +2090,7 @@
         {
          "columns":16,
          "firstgid":10760,
-         "image":"tilesets\/selected-tilsets\/interiors\/13_Conference_Hall_Black_Shadow_32x32.png",
+         "image":"src\/assets\/interiors\/13_Conference_Hall_Black_Shadow_32x32.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -2103,7 +2103,7 @@
         {
          "columns":15,
          "firstgid":10952,
-         "image":"..\/camp-chia\/tilesets\/selected-tilsets\/interiors\/Room_Builder_Floors_32x32.png",
+         "image":"src\/assets\/interiors\/Room_Builder_Floors_32x32.png",
          "imageheight":1280,
          "imagewidth":480,
          "margin":0,
@@ -2116,7 +2116,7 @@
         {
          "columns":10,
          "firstgid":11552,
-         "image":"tilesets\/WA_Tables.png",
+         "image":"src\/assets\/interiors\/WA_Tables.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -2129,7 +2129,7 @@
         {
          "columns":29,
          "firstgid":11822,
-         "image":"..\/..\/..\/..\/Downloads\/NFTr_Logo.png",
+         "image":"src\/assets\/logos\/NFTr_Logo.png",
          "imageheight":864,
          "imagewidth":928,
          "margin":0,
@@ -2142,7 +2142,7 @@
         {
          "columns":13,
          "firstgid":12605,
-         "image":"tilesets\/WA_User_Interface.png",
+         "image":"src\/assets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -2155,7 +2155,7 @@
         {
          "columns":29,
          "firstgid":12878,
-         "image":"..\/..\/..\/..\/Downloads\/Dexie_Logo.png",
+         "image":"src\/assets\/logos\/Dexie_Logo.png",
          "imageheight":864,
          "imagewidth":928,
          "margin":0,
@@ -2168,7 +2168,7 @@
         {
          "columns":29,
          "firstgid":13661,
-         "image":"..\/..\/..\/..\/Downloads\/Chia_Logo_Small.png",
+         "image":"src\/assets\/logos\/Chia_Logo_Small.png",
          "imageheight":864,
          "imagewidth":928,
          "margin":0,
@@ -2181,7 +2181,7 @@
         {
          "columns":25,
          "firstgid":14444,
-         "image":"tilesets\/WA_Room_Builder.png",
+         "image":"src\/assets\/interiors\/WA_Room_Builder.png",
          "imageheight":1280,
          "imagewidth":800,
          "margin":0,
@@ -2194,7 +2194,7 @@
         {
          "columns":12,
          "firstgid":15444,
-         "image":"tilesets\/WA_Other_Furniture.png",
+         "image":"src\/assets\/interiors\/WA_Other_Furniture.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -2207,7 +2207,7 @@
         {
          "columns":6,
          "firstgid":15600,
-         "image":"..\/camp-chia\/tilesets\/WA_Special_Zones.png",
+         "image":"src\/assets\/WA_Special_Zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
